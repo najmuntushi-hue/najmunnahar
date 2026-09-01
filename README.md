@@ -93,10 +93,10 @@ Implementing and studying computational biology algorithms including:
 * Entropy & Profile Matrix
 
 ---
+### 🌱 Beyond Code
+
+I'm interested in continuously improving my problem-solving ability, creativity, communication, and technical thinking alongside my programming skills.
 
 ### 💫 "Keep learning. Keep building. Keep improving."
-
-⭐ Thanks for visiting my profile!
-
 
 ⭐ Thanks for visiting my profile!
