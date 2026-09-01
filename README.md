@@ -62,19 +62,19 @@ I enjoy learning new technologies, solving programming problems, and building cr
 
 ## 🚀 Projects
 
-### 🏥 Hospital Management System
+### ☕ BREWSHI
+A web-based coffee shop platform designed to provide a simple and engaging experience for exploring coffee products and related information.
+The project focuses on creating a user-friendly interface and organizing coffee-related content in a clean and accessible way.
 
-A web-based Hospital Management System designed to manage doctors, patients, authentication, and hospital-related information.
+**Technologies:** HTML · CSS 
 
-**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
+### 🔧 ParseMaster — Compiler Construction Lab Project
 
----
+A compiler construction lab project focused on implementing fundamental concepts of compiler design and language processing.
+The project explores how source code can be analyzed and processed through different stages of compilation.
+and this is team projects.
 
-### 🤖 Machine Learning Projects
-
-Exploring machine learning concepts using Python and libraries such as Scikit-learn.
-
-**Technologies:** Python · Machine Learning · Scikit-learn
+**Technologies:** C++ · Compiler Construction · Lexical Analysis · Syntax Analysis · Three Address Code · Code Optimization · Code Generation
 
 ---
 
@@ -93,6 +93,39 @@ Implementing and studying computational biology algorithms including:
 * Entropy & Profile Matrix
 
 ---
+## 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/najmuntushi-hue">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://bd.linkedin.com/in/najmun-nahar-tushi-a07b05258">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=najmuntushi-hue&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najmuntushi-hue&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=najmuntushi-hue&theme=tokyonight" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=najmuntushi-hue&theme=tokyo-night" />
+</p>
+
 ### 🌱 Beyond Code
 
 I'm interested in continuously improving my problem-solving ability, creativity, communication, and technical thinking alongside my programming skills.
