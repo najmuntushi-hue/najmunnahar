@@ -71,6 +71,7 @@ A web-based coffee shop platform designed to provide a simple and engaging exper
 The project focuses on creating a user-friendly interface and organizing coffee-related content in a clean and accessible way.
 
 **Technologies:** HTML · CSS 
+**Live link:** https://najmuntushi-hue.github.io/Brewshi/
 
 ### 🔧 ParseMaster — Compiler Construction Lab Project
 
@@ -79,6 +80,13 @@ The project explores how source code can be analyzed and processed through diffe
 and this is team projects.
 
 **Technologies:** C++ · Compiler Construction · Lexical Analysis · Syntax Analysis · Three Address Code · Code Optimization · Code Generation
+
+### 🌐 DevConf 2026 — Conference Website
+A responsive conference website project designed for DevConf 2026, focusing on creating a clean, modern, and user-friendly web interface for a developer conference.
+The project demonstrates practical implementation of responsive web design, structured layouts, and interactive UI components.
+
+**Technologies:** HTML5 · CSS3 · Responsive Web Design · UI/UX
+**Live link:** https://najmuntushi-hue.github.io/B14-A01-DevConf-2026/
 
 ---
 
