@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Githubbanner.jfif" width="100%" alt="Najmun Nahar Banner">
+</p>
+
 # Hi 👋, I'm Najmun Nahar
 
 ### 💻 Computer Science & Engineering Student | Programmer | Tech Enthusiast
